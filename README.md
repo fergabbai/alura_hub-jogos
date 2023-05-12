@@ -7,8 +7,8 @@
 #### Para iniciar o jogo o usuário deve escolher o nível de dificuldade que irá jogar:
 ##### 1 - Fácil: 7 tentativas
 ##### 2 - Médio: 5 tentativas
-##### 3 - Difícil: 3 tentaivas
-#### A cada tentiva errada do usuário, o programa retorna uma mensagem dizendo se o número é menor ou maior que o seu palpite, e o usuário perde 1 ponto.
+##### 3 - Difícil: 3 tentativas
+#### A cada tentativa errada do usuário, o programa retorna uma mensagem dizendo se o número é menor ou maior que o seu palpite, e o usuário perde 1 ponto.
 #### Quando o usuário acerta o número secreto, o programa retorna os pontos feitos no jogo.
 #### O jogo encerra quando o usuário acerta o número secreto ou atinge seu limite de tentativas.
 #
