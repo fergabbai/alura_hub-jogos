@@ -1,8 +1,8 @@
 # HUB DE JOGOS
 #### Este projeto consiste em uma plataforma de jogos, onde o usuário pode escolher entre dois jogos:
-### 🔢 ADVINHAÇÃO ou FORCA 🔠
+### 🔢 ADIVINHAÇÃO ou FORCA 🔠
 #
-## JOGO - ADVINHAÇÃO
+## JOGO - ADIVINHAÇÃO
 ### Neste jogo o usuário deve tentar acertar qual número secreto entre 1 e 10 foi escolhido aleatoriamente pelo programa, iniciando com 100 pontos.
 #### Para iniciar o jogo o usuário deve escolher o nível de dificuldade que irá jogar:
 ##### 1 - Fácil: 7 tentativas
